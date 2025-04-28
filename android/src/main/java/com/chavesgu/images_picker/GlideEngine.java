@@ -1,5 +1,4 @@
 package com.chavesgu.images_picker;
-
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.PointF;
